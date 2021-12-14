@@ -1,3 +1,4 @@
 .idea/
 db.sqllite3
-*.pyc
+*.pycgit
+__pycache__
